@@ -1,4 +1,5 @@
 # Olá, sou Alex Luiz!
+
 <br>
 <div display="flex" flex-direction="row" align-items="center" style="background:blue">
   <div>
@@ -11,6 +12,7 @@
   </div>
 </div> 
 <br>
+
 - 🔭 Atualmente eu trabalho em [Remofer](https://www.remoferdobrasil.com.br/)
 
 - 🏫 Engenheiro Mecatrônico por SATC
@@ -18,8 +20,10 @@
 - 🌱 Estou sempre aprendendo **inglês, sistemas embarcados, C, C++, impressão 3D, Design de PCB's**
 
 - ⚡ Fun fact: No meu tempo livre gosto de jogar, e assistir filmes e séries antigas
+
 <br>
 ## ⚙️ GitHub Analytics
+
 <br>
 <table align="center">
   <tr>
