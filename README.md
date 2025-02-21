@@ -1,6 +1,7 @@
 # Olá, sou Alex Luiz!
 
 <br>
+
 <div display="flex" flex-direction="row" align-items="center" style="background:blue">
   <div>
     <img src="https://komarev.com/ghpvc/?username=lexcibien&color=orange&abbreviated=true" alt="Profile views" />
@@ -11,6 +12,7 @@
     </a> 
   </div>
 </div> 
+
 <br>
 
 - 🔭 Atualmente eu trabalho em [Remofer](https://www.remoferdobrasil.com.br/)
@@ -22,9 +24,11 @@
 - ⚡ Fun fact: No meu tempo livre gosto de jogar, e assistir filmes e séries antigas
 
 <br>
+
 ## ⚙️ GitHub Analytics
 
 <br>
+
 <table align="center">
   <tr>
     <td><img width="530em" src="https://github-readme-stats.vercel.app/api?username=lexcibien&show_icons=true&theme=merko" alt="Alex stats" /></td>
