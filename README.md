@@ -27,11 +27,6 @@
   <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white" />
 </p>
 
-## ⚙️ GitHub Analytics
-
- <img src="https://github-readme-stats.vercel.app/api?username=lexcibien&show_icons=true&theme=merko" alt="lexcibien" width="45%" align="right"/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=lexcibien&theme=dark" alt="lexcibien" width="47%" />
-
 ## Top Languages
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lexcibien&layout=compact&theme=merko&hide_border=true)
