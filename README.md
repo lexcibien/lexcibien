@@ -11,14 +11,15 @@
 
 
 - 🔭 Atualmente eu trabalho em [Remofer](https://www.remoferdobrasil.com.br/);
-- 🏫 Engenheiro Mecatrônico por SATC;
+- 🏫 Engenheiro Mecatrônico na SATC;
 - 🌱 Estou sempre aprendendo **inglês, sistemas embarcados, C, C++, impressão 3D, Design de PCB's**;
-- ⚡ Fun fact: No meu tempo livre gosto de jogar, e assistir filmes e séries antigas;
+- ⚡ Fun fact: No meu tempo livre gosto de jogar e assistir filmes e séries antigas;
 
 ## Tech Stack
 
 <p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="cpp" src="https://img.shields.io/badge/C%2B%2B-231572?style=flat-square&logo=cplusplus&logoColor=white" /> 
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
   <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
