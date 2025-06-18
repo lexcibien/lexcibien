@@ -18,14 +18,16 @@
 ## Tech Stack
 
 <p>
-  <img alt="cpp" src="https://img.shields.io/badge/C%2B%2B-231572?style=flat-square&logo=cplusplus&logoColor=white" /> 
+  <img alt="cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> 
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
-  <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS3-663399?style=flat-square&logo=css&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=black" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white" />
+  <img alt="RaspberryPi" src="https://img.shields.io/badge/-RaspberryPi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" />
 </p>
 
 ## Top Languages
